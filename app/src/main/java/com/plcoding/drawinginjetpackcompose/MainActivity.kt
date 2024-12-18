@@ -33,6 +33,8 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.plcoding.drawinginjetpackcompose.ui.theme.DrawingInJetpackComposeTheme
 
+// TODO: https://www.youtube.com/watch?v=Eq1ZgoI_QPQ
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
